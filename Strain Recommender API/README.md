@@ -1,8 +1,3 @@
-# MediCabinet
-## A Medical Marijuana Strain Recommender
-
-This ia a small back-end Flask API model providing marijuana strain recommendations for the MediCabinet project, based on desired effects and ailments to be treated. K-Nearest-Neighbor model takes a pandas series holding user input regarding their cannabis strain preferences, and outputs a raw JSON array containing the most similar strains in the database.
-
 # Strain Recommender API 
 
 ## Usage
